@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"requ",
+				"required"
+			],
+			[
+				"HTTP_",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"Usercr",
+				"UserCreateSerializer"
+			],
+			[
+				"format",
+				"format\tformat"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"di",
+				"div\t<div>"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"con",
+				"conf"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"from",
+				"form"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"Pos",
+				"Post"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"post",
+				"Post"
+			],
+			[
+				"po",
+				"post_delete"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"na",
+				"name\tconst"
+			],
+			[
+				"Collection",
+				"CollectionDashboards"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 3545,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/admin/forms.py",
+			"settings":
+			{
+				"buffer_size": 1168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/admin/views.py",
+			"settings":
+			{
+				"buffer_size": 6809,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/admin/employees/employee.html",
+			"settings":
+			{
+				"buffer_size": 745,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<!-- app/templates/admin/employees/employee.html -"
+			}
+		},
+		{
+			"file": "app/templates/admin/roles/roles.html",
+			"settings":
+			{
+				"buffer_size": 2254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<!-- app/templates/admin/roles/roles.html -->"
+			}
+		},
+		{
+			"file": "app/templates/admin/roles/role.html",
+			"settings":
+			{
+				"buffer_size": 660,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<!-- app/templates/admin/roles/role.html -->"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/admin",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/admin",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/admin/employees"
+	],
+	"file_history":
+	[
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/admin/employees/employees.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/static/css/style.css",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/admin/departments/department.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/admin/departments/departments.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/home/views.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/auth/views.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/home/admin_dashboard.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/home/dashboard.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/base.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/auth/forms.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/auth/register.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/auth/login.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/home/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/templates/home/index.html",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/static/img/intro-bg3.jpeg",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/static/img/intro-bg2.jpg",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/static/img/intro-bg.jpg",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/admin/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/auth/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/admin/views.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/admin/forms.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/config.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/instance/config.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/app/models.py",
+		"/Users/bprudhvi/Documents/git_dir/FlaskApp/run.py",
+		"/Users/bprudhvi/Documents/git_dir/flaskApp/hello_world.py",
+		"/Users/bprudhvi/Desktop/copy_files_to_servers.sh",
+		"/Users/bprudhvi/Documents/OPT_Extension_Documents/Needed_Docs",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/base.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/login_form.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/questions_form.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/_formhelpers.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/logout_form.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/example.html",
+		"/Users/bprudhvi/Documents/git_dir/QAForms/templates/register_form.html",
+		"/Users/bprudhvi/Documents/git_dir/Dashboard/index.html",
+		"/Users/bprudhvi/Desktop/zika_Dashboard",
+		"/Users/bprudhvi/Documents/git_dir/Interact/app/Dockerfile",
+		"/Users/bprudhvi/Documents/git_dir/Interact/docker-compose.yml",
+		"/Users/bprudhvi/Downloads/callquerylatest.sql",
+		"/Users/bprudhvi/Desktop/callquery.sql",
+		"/Users/bprudhvi/Downloads/cdr_query.sql",
+		"/Users/bprudhvi/Documents/callquerynew.sql",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/api/serializers.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/Djangoblog/settings.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/accounts/api/views.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/api/views.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/Djangoblog/urls.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/accounts/api/urls.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/accounts/api/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/register_form.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/post_form.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/accounts/forms.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/accounts/views.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/api/urls.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/base.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/login_form.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/logout_form.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/form.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/api/pagination.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/models.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/post_detail.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/views.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/404_page.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/forms.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/api/__init__.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/static/pages/examples/404.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/post_list.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/admin.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/urls.py",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/messages_display.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/templates/index.html",
+		"/Users/bprudhvi/Documents/git_dir/DjangoBlog/src/posts/templates/posts/index.html",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/copy_files_to_servers.sh",
+		"/Users/bprudhvi/Documents/git_dir/angular_dev/tsSetup/main.ts",
+		"/Users/bprudhvi/Downloads/AdminLTE-2.4.0-rc/starter.html",
+		"/Users/bprudhvi/Downloads/AdminLTE-2.4.0-rc/pages/calendar.html",
+		"/Users/bprudhvi/Documents/git_dir/School_Website/Django_Basics.txt",
+		"/Users/bprudhvi/Documents/git_dir/School_Website/StudentAnalyzer/db.sqlite3",
+		"/Users/bprudhvi/Documents/BrownBag_Presentations/Presentation_Talk.txt",
+		"/Users/bprudhvi/Documents/BrownBag_Presentations/Presentation_Talk",
+		"/Users/bprudhvi/Downloads/Untitled (1).py",
+		"/Users/bprudhvi/Downloads/Untitled.py",
+		"/Users/bprudhvi/Downloads/chapter6SelectedCodes.py",
+		"/Users/bprudhvi/Downloads/Anaconda2-4.3.1-MacOSX-x86_64.sh",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/copy_files_to_servers_1.sh",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/dockers.txt",
+		"/Users/bprudhvi/Documents/git_dir/Shiny_Collections_Dashboard/Rprofile.site",
+		"/Users/bprudhvi/Documents/git_dir/Shiny_Collections_Dashboard/Dockerfile",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/Sales_Person.sh",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/Brandon_Collections.sh",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/dockers",
+		"/Users/bprudhvi/Desktop/desc.html",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/badri/Cronjobs/Collections/Collection.sh",
+		"/Users/bprudhvi/Desktop/temporary_filewriting/Collection.sh",
+		"/Users/bprudhvi/Desktop/temporary_filewriting/temporary_file_copy.sh",
+		"/Users/bprudhvi/Downloads/Facebook_Project/Likers_profiles/likers_profilelink_scraper.py",
+		"/Users/bprudhvi/Downloads/Facebook_Project/Scraping_FBpages.py",
+		"/Users/bprudhvi/Dropbox (Snap Finance)/RTO Analytics/Analytics/Deployment/derived/BuildData.R"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"register.html",
+			"header",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/admin/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 53.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/admin/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6065,
+								6065
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/admin/employees/employee.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- app/templates/admin/employees/employee.html -",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/templates/admin/roles/roles.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- app/templates/admin/roles/roles.html -->",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/admin/roles/role.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- app/templates/admin/roles/role.html -->",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "FlaskApp.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
